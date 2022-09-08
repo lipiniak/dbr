@@ -1,6 +1,6 @@
 ## Instalacja
 
-Po zklonowaniu repozytorium trzeba wykonac następująe kroki
+Po zklonowaniu repozytorium trzeba wykonac następująe kroki w katalogu głównym aplikacji.
 
 W celu zainstalowania wszystkich potrzebnych pakierów.
 
@@ -17,12 +17,12 @@ W celu wykonania migracji do bazy danych. Konfiguracja bazy danych znajduje się
 
 Przykładowa konfiguracja bazy danych w pliku `.env`:
 
-`DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=dbr
-DB_USERNAME=root
-DB_PASSWORD=root`
+`DB_CONNECTION=mysql`
+`DB_HOST=127.0.0.1`
+`DB_PORT=3306`
+`DB_DATABASE=dbr`
+`DB_USERNAME=root`
+`DB_PASSWORD=root`
 
 ---------
 
